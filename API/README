@@ -1,0 +1,12 @@
+1 - Para subir a API
+# php -S localhost:8888 run.php
+
+
+2 - Assim que subir no terminal aparecerar o essa URL
+http://localhost:8888
+
+
+3 - Na frente da URL
+# http://localhost:8888/{$table}
+
+Autor : Eduardo Ezequiel Marcolino
